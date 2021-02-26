@@ -1,0 +1,11 @@
+# Tester text files
+*.txt
+
+*.html
+*.gif
+
+# Debug files
+*.err
+
+# Output binaries
+*.out
